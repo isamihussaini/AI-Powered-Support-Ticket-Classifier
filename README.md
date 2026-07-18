@@ -33,8 +33,6 @@ A workflow that runs without errors isn't the same as a workflow that behaves co
 
 ## Files in This Repo
 
-## Files in This Repo
-
 - `AI-Powered Support Ticket Classifier.json` — Full exportable n8n workflow (import directly into your own n8n instance)
 - `AI Powered Support Ticket Classifier.png` — Visual workflow diagram
 - `README.md` — This file
