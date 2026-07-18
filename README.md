@@ -2,7 +2,7 @@
 
 An n8n workflow that reads incoming support emails directly from an inbox, classifies them with AI, drafts a reply, notifies the right team, and logs every ticket — with fallback handling if any step fails.
 
-![Workflow Diagram](.AI Powered Support Ticket Classifier.png)
+![Workflow Diagram](./AI%20Powered%20Support%20Ticket%20Classifier.png)
 ## The Problem
 
 Every support inbox needs the same three things done for every email: someone has to read it and decide who it's for, someone has to write a reply, and someone has to make sure it doesn't get forgotten. Most small businesses don't have three people for this — they have one person doing all of it between everything else on their plate. That either slows down response times or eats hours every week that could go toward actual work.
